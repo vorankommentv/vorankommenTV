@@ -2,7 +2,7 @@
 const devTwitchiger = {
     pronouns: "he" | "him",
     website: "devtwitchiger.github.io",
-    location: "aachen | germany",
+    location: "aachen" | "germany",
     hobbies: {
       all=["playing games", "listening to music", "web development", "going out with friends"]
     },
