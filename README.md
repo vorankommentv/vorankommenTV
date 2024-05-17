@@ -9,7 +9,7 @@ const devTwitchiger = {
 };
 ```
 <p align="center"> <img src="https://github.com/devTwitchiger/devTwitchiger/blob/main/source.gif" /> </p>
-<h3 align="center">Tech Stack ⚙️:</h3>
+<h3 align="center">My Languages ⚙️:</h3>
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-CCS3-ffb400?style=flat-square&logo=css3&logoColor=white" />
