@@ -1,10 +1,10 @@
 ```javascript
 const vorankommenTV = {
     pronouns: "he" | "him",
-    website: "vorankommentv.github.io",
+    website: "vorankommen.me",
     location: "aachen" | "germany",
     hobbies: {
-      all=["playing games", "listening to music", "web development", "going out with friends"]
+      all=["playing games", "listening to music", "malware development", "going out with friends"]
     },
 };
 ```
